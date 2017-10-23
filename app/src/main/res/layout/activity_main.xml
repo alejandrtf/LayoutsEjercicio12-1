@@ -41,7 +41,7 @@
         android:background="@color/yellow"
         android:gravity="center"
         android:padding="10dp"
-        android:text="TextView"
+        android:text="@string/yellow"
         android:textStyle="bold" />
 
     <TextView
@@ -84,6 +84,7 @@
         android:layout_toRightOf="@+id/tvAzul"
         android:background="@color/violeta"
         android:gravity="center"
+        android:padding="10dp"
         android:text="@string/violeta"
         android:textColor="@android:color/white"
         android:textStyle="bold" />
